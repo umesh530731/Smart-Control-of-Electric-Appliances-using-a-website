@@ -1,0 +1,161 @@
+*{ 
+    margin:0;
+    padding:0;
+
+}
+#header{ 
+    text-align: center;
+    color:black;
+    height:500px;
+    width: 1250px;
+    display:inline-block;
+    background-color: red;
+    background-image:url("third_page_background.jpg");
+    background-size:cover;     
+}
+#Timetable{ 
+    text-align:center ; 
+
+} 
+#Firstclass{ 
+    display:inline-block;
+    position:relative;
+    left: 450px;
+    border:2px solid black;
+    border-radius: 20%; 
+}
+#Firstclass:hover{ 
+    background-color: rgb(169, 17, 230);
+    color:white;
+} 
+#Firstmark{ 
+    text-align:center;
+    display:inline-block;
+    padding-left:25px;
+    position:relative;
+    left: 500px;
+    top:7px;
+    right:50px; 
+     
+} 
+#Secondclass{ 
+    display:inline-block;
+    position:relative;
+    left: 450px;
+    border:2px solid black;
+    border-radius: 20%; 
+}
+#Secondclass:hover{ 
+    background-color:  rgb(169, 17, 230);
+    color:white;
+} 
+#Secondmark{ 
+    text-align:center;
+    display:inline-block;
+    padding-left:25px;
+    position:relative;
+    left: 500px;
+    top:7px;
+    right:50px; 
+     
+} 
+#Thirdmark{ 
+    text-align:center;
+    display:inline-block;
+    padding-left:25px;
+    position:relative;
+    left: 550px;
+    top:7px;
+    right:50px;
+    margin-left:20px ; 
+     
+}
+#Timetable_box{ 
+             
+} 
+#Lights{ 
+    text-align:center; 
+    padding-top:30px;
+    height:500px;
+    background-color:darkviolet;
+    background-image: url("Image_of_classroom.jpeg");
+    background-size:cover;
+
+}
+#box2{ 
+    color:black;
+    background-color:white;
+    height:100px;
+    text-align:center;
+   width:200px;
+   border:2px solid black; 
+   margin-right: 50px; 
+   text-decoration:none;
+   padding: 25px;
+   position:relative;
+   font-size:large;
+   top: 40px;
+   left:100px;
+   
+ }
+ #box2:hover { 
+    background-color:rgb(128, 0, 255);
+    color:white;
+}
+ #box3{ 
+   color:black;
+   background-color:white;
+   height:100px;
+   text-align:center;
+   width:200px;
+   border:2px solid black; 
+   margin-right: 50px; 
+   text-decoration:none;
+   padding: 25px;
+   position:relative;
+   top: 40px;
+   left:100px;
+   font-size:large; 
+ }
+ #box3:hover { 
+    background-color:aqua;
+    color:white;
+}
+#box4{ 
+    color:black;
+    background-color:white;
+    height:100px;
+    text-align:center;
+    width:200px;
+    border:2px solid black;
+    margin-right:50px; 
+    text-decoration:none;
+    padding: 25px;
+    position:relative;
+    top: 40px;
+    left:100px;
+    font-size:large; 
+  }
+  #box4:hover { 
+     background-color:deeppink;
+     color:white;
+ }
+ #box5{ 
+    color:black;
+    background-color:white;
+    height:100px;
+    text-align:center;
+    width:200px;
+    border:2px solid black; 
+    margin-right: 50px; 
+    text-decoration:none;
+    padding: 25px;
+    position:relative;
+    top: 40px;
+    left:100px;
+    font-size:large; 
+  }
+  #box5:hover { 
+     background-color: grey;
+     color:white;
+ }

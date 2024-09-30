@@ -1,0 +1,241 @@
+*{ 
+    margin:0;
+    padding:0;
+}
+#firstroom{ 
+    background-color:red;
+    display:inline-block; 
+}
+header{ 
+    color:white;
+    background-color: black;
+    text-align: center;
+    Height:75px;
+    z-index: 2;
+    
+}
+#imagebox{ 
+    color:white;
+    background-color:white; 
+    height: 500px;
+    display:inline-block; 
+}
+div{ 
+   display:inline-block;
+
+}
+#boxes{ 
+    text-align: center;
+    display:inline-block;
+    height:100px;
+    width:1050px;
+}
+#box1{ 
+    color:black;
+   background-color:white;
+   text-align:center;
+   height:100px;
+   width:200px;
+   border:2px solid black; 
+   margin-right: 50px;
+   text-decoration:none;
+   padding: 25px;
+   position:relative;
+   top: 23px;
+   font-size:large;
+   left:100px;
+
+} 
+#box1:hover { 
+    background-color:red;
+    color:white;
+}
+#box2{ 
+    color:black;
+    background-color:white;
+    height:100px;
+    text-align:center;
+   width:200px;
+   border:2px solid black; 
+   margin-right: 50px; 
+   text-decoration:none;
+   padding: 25px;
+   position:relative;
+   font-size:large;
+   top: 23px;
+   left:100px;
+   
+ }
+ #box2:hover { 
+    background-color:rgb(128, 0, 255);
+    color:white;
+}
+ #box3{ 
+   color:black;
+   background-color: white;
+   height:100px;
+   text-align:center;
+   width:200px;
+   border:2px solid black; 
+   margin-right: 50px; 
+   text-decoration:none;
+   padding: 25px;
+   position:relative;
+   top: 23px;
+   left:100px;
+   font-size:large; 
+ }
+ #box3:hover { 
+    background-color:aqua;
+    color:white;
+}
+#box4{ 
+    color:black;
+    background-color: white;
+    height:100px;
+    text-align:center;
+    width:200px;
+    border:2px solid black;
+    margin-right:50px; 
+    text-decoration:none;
+    padding: 25px;
+    position:relative;
+    top: 23px;
+    left:100px;
+    font-size:large; 
+  }
+  #box4:hover { 
+     background-color:deeppink;
+     color:white;
+ }
+ #box5{ 
+    color:black;
+    background-color: white;
+    height:100px;
+    text-align:center;
+    width:200px;
+    border:2px solid black; 
+    margin-right: 50px; 
+    text-decoration:none;
+    padding: 25px;
+    position:relative;
+    top: 23px;
+    left:100px;
+    font-size:large; 
+  }
+  #box5:hover { 
+     background-color: grey;
+     color:white;
+ }
+#EM{ 
+    color:black;
+   background-color:white;
+   text-align:center;
+   height:100px;
+   width:300px;
+   border:2px solid black; 
+   margin-right: 50px;
+   text-decoration:none;
+   padding: 25px;
+   position:relative;
+   top: 23px;
+   font-size:large;
+   left:100px;
+
+} 
+#EM:hover { 
+    background-color: rosybrown;
+    color:white;
+}
+#SEG{ 
+    color: black;
+    background-color:white;
+    height:100px;
+    text-align:center;
+   width:200px;
+   border:2px solid black; 
+   margin-right: 50px; 
+   text-decoration:none;
+   padding: 25px;
+   position:relative;
+   font-size:large;
+   top: 23px;
+   left:100px;
+   
+ }
+ #SEG:hover { 
+    background-color: rosybrown;
+    color:white;
+}
+#EN{ 
+    color:black;
+    background-color: white;
+    height:100px;
+    text-align:center;
+    width:200px;
+    border:2px solid black; 
+    margin-right: 50px; 
+    text-decoration:none;
+    padding: 25px;
+    position:relative;
+    top: 23px;
+    left:100px;
+    font-size:large; 
+  }
+  #EN:hover { 
+     background-color: rosybrown;
+     color:white;
+ } 
+ #Py{ 
+    color:black;
+    background-color: white;
+    height:100px;
+    text-align:center;
+    width:200px;
+    border:2px solid black; 
+    margin-right: 50px; 
+    text-decoration:none;
+    padding: 25px;
+    position:relative;
+    top: 23px;
+    left:100px;
+    font-size:large; 
+  }
+  #Py:hover { 
+     background-color: rosybrown;
+     color:white;
+ } 
+ #PS{ 
+    color:black;
+    background-color: white;
+    height:100px;
+    text-align:center;
+    width:200px;
+    border:2px solid black; 
+    margin-right: 50px; 
+    text-decoration:none;
+    padding: 25px;
+    position:relative;
+    top: 23px;
+    left:100px;
+    font-size:large; 
+  }
+  #PS:hover { 
+     background-color: rosybrown;
+     color:white;
+ } 
+#Select_room{ 
+    display:inline;
+} 
+#Select_classroom{ 
+    display:inline; 
+    position:relative;
+    top:25px;
+    padding-left:50px;
+} 
+#Select_lab{ 
+    display:inline; 
+    position:relative;
+    top:25px;
+    padding-left:100px;
+}

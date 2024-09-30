@@ -1,0 +1,58 @@
+*{
+    border-top: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+div{
+    padding:0px;
+    border-top: 0px;
+    margin-top: 0px;
+}
+.background{
+    background-image:url('W.jpg');
+    height: 800px;
+}
+.heading{
+    display: inline;
+    margin-top: 0px;margin-left: 22%;
+    color:white;
+}
+h1{
+    font-size: 80px;
+}
+.center{
+    color:white;
+    font-size:20px;
+    border-style: solid;
+    border-radius: 2px;
+    width:265px;
+}
+a{
+    color:red;
+    text-decoration: none;
+}
+.Login{
+    position: relative bottom 10px;
+    margin-left: 1300px;
+    font-size: 20px;
+}
+spam{
+    color:white
+}
+.classroom{
+    font-size: 80px;
+    margin-left:40%;
+    margin-right:34%;
+}
+.classroom:hover{
+    background-color: cyan;
+}
+.Addclassroom {
+    font-size: 60px;
+    margin-left: 40%;
+    margin-right: 30%;
+}
+
+.Addclassroom:hover {
+    background-color: cyan;
+}
